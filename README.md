@@ -1,2 +1,2 @@
 # Weather-on-Maps
-This Distributed Web Application provides a google route map along with weather information (throughout the route) as per user input
+Distributed Web Application to provide weather information along any specified route using Google Maps API and Open Weather Map API.
