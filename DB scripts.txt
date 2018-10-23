@@ -1,0 +1,3 @@
+create schema ds;
+
+create table mapweather(mapid int not null primary key,source varchar(20),destination varchar(20),latitude varchar(1000),longitude varchar(1000),weather varchar(10000));
